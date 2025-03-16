@@ -1,1 +1,3 @@
-# Course Selling Application using CRUD
+# Course Selling Application 
+Tech Stack:Nodejs,Expressjs,Mongodb
+
