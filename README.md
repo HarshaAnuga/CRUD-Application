@@ -2,6 +2,6 @@
 
 Tech Stack:Nodejs,Expressjs,Mongodb
 
-To Run
+To Run this repository
 
-npm install 
+     npm install 
